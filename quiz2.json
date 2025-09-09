@@ -1,0 +1,258 @@
+[
+    {
+      "question": "Which of the following is not an example of hardware?",
+      "options": ["Motherboard", "Compiler", "Processor", "Keyboard"],
+      "answer": "Compiler"
+    },
+    {
+      "question": "Which of these is an output device?",
+      "options": ["Scanner", "Monitor", "Keyboard", "Mouse"],
+      "answer": "Monitor"
+    },
+    {
+      "question": "Which software translates high-level language into machine code?",
+      "options": ["Word processor", "Compiler", "Browser", "Operating system"],
+      "answer": "Compiler"
+    },
+    {
+      "question": "An information system is a combination of:",
+      "options": [
+        "Hardware and software",
+        "People, technology, process, and data",
+        "Only databases",
+        "Only internet services"
+      ],
+      "answer": "People, technology, process, and data"
+    },
+    {
+      "question": "The ALU is a part of which hardware component?",
+      "options": ["Input Unit", "CPU", "Memory", "Output Unit"],
+      "answer": "CPU"
+    },
+    {
+      "question": "Which of the following is an example of application software?",
+      "options": ["Compiler", "Database management system", "Windows", "Device driver"],
+      "answer": "Database management system"
+    },
+    {
+      "question": "HTTP stands for:",
+      "options": [
+        "HyperText Transfer Protocol",
+        "High Tech Transmission Process",
+        "Hyperlink Text Test Program",
+        "Host Terminal Transfer Path"
+      ],
+      "answer": "HyperText Transfer Protocol"
+    },
+    {
+      "question": "Which of the following is used to retrieve specific information from a database?",
+      "options": ["Report", "Form", "Query", "Macro"],
+      "answer": "Query"
+    },
+    {
+      "question": "Which of the following is the primary purpose of an information system?",
+      "options": ["Entertainment", "Decision making", "Network communication", "Online chatting"],
+      "answer": "Decision making"
+    },
+    {
+      "question": "Which device is commonly used for entering textual data into an information system?",
+      "options": ["Printer", "Keyboard", "Speaker", "Monitor"],
+      "answer": "Keyboard"
+    },
+    {
+      "question": "Antivirus programs belong to which category of software?",
+      "options": ["Utility software", "System software", "Application software", "Firmware"],
+      "answer": "Utility software"
+    },
+    {
+      "question": "Which memory is volatile?",
+      "options": ["RAM", "ROM", "Hard disk", "CD-ROM"],
+      "answer": "RAM"
+    },
+    {
+      "question": "The World Wide Web is:",
+      "options": [
+        "A hardware component",
+        "A system of interlinked hypertext documents",
+        "A communication protocol",
+        "A storage device"
+      ],
+      "answer": "A system of interlinked hypertext documents"
+    },
+    {
+      "question": "Which port is most commonly used for connecting a keyboard and mouse?",
+      "options": ["HDMI", "USB", "VGA", "RJ-45"],
+      "answer": "USB"
+    },
+    {
+      "question": "Which of the following is not a programming language?",
+      "options": ["Python", "Java", "Excel", "C++"],
+      "answer": "Excel"
+    },
+    {
+      "question": "A communication protocol is best described as:",
+      "options": [
+        "A set of rules governing data transmission",
+        "A hardware device",
+        "A programming language",
+        "A type of network cable"
+      ],
+      "answer": "A set of rules governing data transmission"
+    },
+    {
+      "question": "In an information system, data entry is classified as:",
+      "options": ["Output", "Input", "Storage", "Processing"],
+      "answer": "Input"
+    },
+    {
+      "question": "Which is not a type of information system?",
+      "options": [
+        "Decision Support System",
+        "Expert System",
+        "Operating System",
+        "Transaction Processing System"
+      ],
+      "answer": "Operating System"
+    },
+    {
+      "question": "Cloud storage refers to:",
+      "options": [
+        "Physical USB drives",
+        "Remote servers accessed via internet",
+        "Floppy disks",
+        "External hard disk only"
+      ],
+      "answer": "Remote servers accessed via internet"
+    },
+    {
+      "question": "Bandwidth in communication refers to:",
+      "options": [
+        "Size of a file",
+        "Data transfer capacity of a channel",
+        "Number of users in a network",
+        "Memory capacity"
+      ],
+      "answer": "Data transfer capacity of a channel"
+    },
+    {
+      "question": "Transaction Processing Systems (TPS) are mainly used for:",
+      "options": ["Strategic decision making", "Operational tasks", "Long-term planning", "Data mining"],
+      "answer": "Operational tasks"
+    },
+    {
+      "question": "Which storage device uses magnetic disks?",
+      "options": ["SSD", "Hard Disk Drive", "Flash Drive", "CD-ROM"],
+      "answer": "Hard Disk Drive"
+    },
+    {
+      "question": "The speed of data transmission is measured in:",
+      "options": ["Hertz", "Bits per second", "Megabytes", "Pixels"],
+      "answer": "Bits per second"
+    },
+    {
+      "question": "Which of the following is a web browser?",
+      "options": ["Google Chrome", "Microsoft Word", "Adobe Photoshop", "Oracle"],
+      "answer": "Google Chrome"
+    },
+    {
+      "question": "A printed report is an example of:",
+      "options": ["Input", "Storage", "Output", "Processing"],
+      "answer": "Output"
+    },
+    {
+      "question": "Which of these is not an example of system software?",
+      "options": ["Operating system", "Compiler", "Device driver", "Spreadsheet"],
+      "answer": "Spreadsheet"
+    },
+    {
+      "question": "Logical and arithmetic operations are carried out by the:",
+      "options": ["Control Unit", "Arithmetic Logic Unit", "Memory Unit", "Cache"],
+      "answer": "Arithmetic Logic Unit"
+    },
+    {
+      "question": "A system that helps managers with semi-structured decisions is:",
+      "options": ["MIS", "DSS", "ERP", "TPS"],
+      "answer": "DSS"
+    },
+    {
+      "question": "Which technology is used for capturing images as input into a computer system?",
+      "options": ["Scanner", "Printer", "Projector", "USB drive"],
+      "answer": "Scanner"
+    },
+    {
+      "question": "Open-source software means:",
+      "options": [
+        "Free trial version only",
+        "Can be modified and redistributed",
+        "Licensed strictly by the company",
+        "Runs only on Windows"
+      ],
+      "answer": "Can be modified and redistributed"
+    },
+    {
+      "question": "The main function of the motherboard is:",
+      "options": [
+        "To process data",
+        "To provide a power supply",
+        "To connect and integrate computer components",
+        "To store the operating system"
+      ],
+      "answer": "To connect and integrate computer components"
+    },
+    {
+      "question": "Which device is used for permanent storage of data?",
+      "options": ["RAM", "ROM", "Hard disk", "Cache"],
+      "answer": "Hard disk"
+    },
+    {
+      "question": "Which of the following best describes MIS?",
+      "options": [
+        "Management Input System",
+        "Management Information System",
+        "Modern Integrated System",
+        "Machine Information Software"
+      ],
+      "answer": "Management Information System"
+    },
+    {
+      "question": "The stage in which raw data is transformed into meaningful information is called:",
+      "options": ["Input", "Output", "Processing", "Storage"],
+      "answer": "Processing"
+    },
+    {
+      "question": "Which of the following is not a transmission medium?",
+      "options": ["Optical fiber", "Coaxial cable", "Satellite", "Printer"],
+      "answer": "Printer"
+    },
+    {
+      "question": "The Internet is:",
+      "options": [
+        "A single computer",
+        "A global network of interconnected computers",
+        "A web browser",
+        "A database"
+      ],
+      "answer": "A global network of interconnected computers"
+    },
+    {
+      "question": "Which of the following is an input device?",
+      "options": ["Monitor", "Printer", "Mouse", "Speaker"],
+      "answer": "Mouse"
+    },
+    {
+      "question": "Which of the following is an example of device driver software?",
+      "options": ["Printer driver", "MS Word", "Photoshop", "MySQL"],
+      "answer": "Printer driver"
+    },
+    {
+      "question": "Batch processing is best suited for:",
+      "options": ["Online chat", "Payroll processing", "Real-time gaming", "ATM transactions"],
+      "answer": "Payroll processing"
+    },
+    {
+      "question": "In MS Access, a collection of related data stored in rows and columns is called a:",
+      "options": ["Form", "Table", "Query", "Report"],
+      "answer": "Table"
+    }
+  ]
+

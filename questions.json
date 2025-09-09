@@ -1,0 +1,207 @@
+[
+  {
+    "question": "Which of the following best defines problem solving in computing?",
+    "options": [
+      "Following random steps until a solution appears",
+      "Breaking down a problem into smaller, manageable steps",
+      "Memorizing code examples from textbooks",
+      "Writing code without planning"
+    ],
+    "answer": "Breaking down a problem into smaller, manageable steps"
+  },
+  {
+    "question": "In Python, which operator is used for exponentiation?",
+    "options": ["^", "**", "//", "%"],
+    "answer": "**"
+  },
+  {
+    "question": "An algorithm must have the following property:",
+    "options": ["Ambiguity", "Finiteness", "Randomness", "Endless loop"],
+    "answer": "Finiteness"
+  },
+  {
+    "question": "Which of these is a valid Python variable name?",
+    "options": ["2value", "student_name", "total%score", "class"],
+    "answer": "student_name"
+  },
+  {
+    "question": "Which of the following is an input device?",
+    "options": ["Monitor", "Printer", "Keyboard", "Speaker"],
+    "answer": "Keyboard"
+  },
+  {
+    "question": "The result of 7 // 2 in Python is:",
+    "options": ["3.5", "3", "4", "3.0"],
+    "answer": "3"
+  },
+  {
+    "question": "Which step comes first in problem solving?",
+    "options": ["Analyzing the problem", "Coding the solution", "Testing the program", "Debugging errors"],
+    "answer": "Analyzing the problem"
+  },
+  {
+    "question": "Which data type is used in Python to represent textual data?",
+    "options": ["int", "float", "str", "bool"],
+    "answer": "str"
+  },
+  {
+    "question": "Which of the following is NOT a property of an algorithm?",
+    "options": ["Finiteness", "Definiteness", "Ambiguity", "Input/Output"],
+    "answer": "Ambiguity"
+  },
+  {
+    "question": "In Python, 10 % 3 evaluates to:",
+    "options": ["0", "1", "3", "2"],
+    "answer": "1"
+  },
+  {
+    "question": "Which of the following is an example of a problem that computers solve?",
+    "options": ["Brushing teeth", "Predicting stock prices", "Cooking rice", "Driving a bicycle manually"],
+    "answer": "Predicting stock prices"
+  },
+  {
+    "question": "In Python, the assignment operator is:",
+    "options": ["=", "==", "===", "<="],
+    "answer": "="
+  },
+  {
+    "question": "A flowchart is used to:",
+    "options": ["Store data", "Represent an algorithm pictorially", "Compile programs", "Debug errors"],
+    "answer": "Represent an algorithm pictorially"
+  },
+  {
+    "question": "Which of the following is an invalid variable name?",
+    "options": ["myName", "_student", "price$", "age2"],
+    "answer": "price$"
+  },
+  {
+    "question": "Which operator has the highest precedence in Python?",
+    "options": ["Addition +", "Multiplication *", "Parentheses ()", "Subtraction -"],
+    "answer": "Parentheses ()"
+  },
+  {
+    "question": "What is the output of 5 + 3 * 2 in Python?",
+    "options": ["16", "13", "11", "10"],
+    "answer": "11"
+  },
+  {
+    "question": "The process of finding and correcting errors in a program is called:",
+    "options": ["Compilation", "Debugging", "Execution", "Iteration"],
+    "answer": "Debugging"
+  },
+  {
+    "question": "Which of these is NOT a basic data type in Python?",
+    "options": ["int", "float", "string", "character"],
+    "answer": "character"
+  },
+  {
+    "question": "A good algorithm should:",
+    "options": ["Be unending", "Have well-defined steps", "Contain ambiguous instructions", "Depend only on luck"],
+    "answer": "Have well-defined steps"
+  },
+  {
+    "question": "In Python, True and False evaluates to:",
+    "options": ["True", "False", "1", "None"],
+    "answer": "1"
+  },
+  {
+    "question": "Which of the following is a correct way to assign a value to a variable?",
+    "options": ["x ← 5", "5 = x", "x = 5", "x == 5"],
+    "answer": "x = 5"
+  },
+  {
+    "question": "Which operator is used for floor division in Python?",
+    "options": ["/", "//", "%", "**"],
+    "answer": "//"
+  },
+  {
+    "question": "The sequence of steps to solve a problem is known as:",
+    "options": ["Flowchart", "Algorithm", "Pseudocode", "Syntax"],
+    "answer": "Algorithm"
+  },
+  {
+    "question": "Which of the following is the correct output of 4 ** 2 in Python?",
+    "options": ["6", "8", "16", "12"],
+    "answer": "16"
+  },
+  {
+    "question": "Which of the following is a logical operator in Python?",
+    "options": ["and", "++", "||", "--"],
+    "answer": "and"
+  },
+  {
+    "question": "In problem solving, after analyzing the problem, the next step is:",
+    "options": ["Writing code", "Designing the algorithm", "Debugging", "Testing"],
+    "answer": "Designing the algorithm"
+  },
+  {
+    "question": "What type of data is represented by 3.14 in Python?",
+    "options": ["int", "str", "float", "bool"],
+    "answer": "float"
+  },
+  {
+    "question": "The modulus operator in Python is represented as:",
+    "options": ["#", "%", "//", "@"],
+    "answer": "%"
+  },
+  {
+    "question": "Which of these keywords is used to define a variable in Python?",
+    "options": ["var", "let", "None (just use =)", "dim"],
+    "answer": "None (just use =)"
+  },
+  {
+    "question": "Which of these is NOT a characteristic of a good algorithm?",
+    "options": ["Finiteness", "Effectiveness", "Ambiguity", "Input/output"],
+    "answer": "Ambiguity"
+  },
+  {
+    "question": "Which of these expressions evaluates to 15 in Python?",
+    "options": ["3 * 5", "“3” * “5”", "“7” + “8”", "“7 + 8”"],
+    "answer": "3 * 5"
+  },
+  {
+    "question": "Which of the following is the Boolean result of 10 > 5?",
+    "options": ["0", "True", "False", "None"],
+    "answer": "True"
+  },
+  {
+    "question": "What is the first step in writing a computer program?",
+    "options": ["Code typing", "Problem analysis", "Debugging", "Testing"],
+    "answer": "Problem analysis"
+  },
+  {
+    "question": "Which of the following is a valid Python variable name?",
+    "options": ["1student", "student_1", "student-id", "class"],
+    "answer": "student_1"
+  },
+  {
+    "question": "The symbol == in Python means:",
+    "options": ["Assignment", "Equality comparison", "Not equal", "Greater than"],
+    "answer": "Equality comparison"
+  },
+  {
+    "question": "An algorithm should eventually:",
+    "options": ["Stop after a finite number of steps", "Run forever", "Depend on trial and error", "Ignore the input"],
+    "answer": "Stop after a finite number of steps"
+  },
+  {
+    "question": "Which data type is returned by input() function in Python?",
+    "options": ["int", "str", "float", "bool"],
+    "answer": "str"
+  },
+  {
+    "question": "The expression (10 - 2) * 3 evaluates to:",
+    "options": ["24", "21", "26", "8"],
+    "answer": "24"
+  },
+  {
+    "question": "In problem-solving, pseudocode is:",
+    "options": ["A programming language", "Informal, English-like representation of an algorithm", "Machine code", "Error messages"],
+    "answer": "Informal, English-like representation of an algorithm"
+  },
+  {
+    "question": "Which operator is used to check inequality in Python?",
+    "options": ["!=", "==", ">=", "<="],
+    "answer": "!="
+  }
+]
