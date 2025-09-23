@@ -2,23 +2,22 @@ let currentUser = null;
 let questions = [];
 let results = {}; // This variable is not actively used in the provided code for storing results
 
+// ...existing code...
 const users = {
-    "student1": "12345678",
-    "student2": "12345678",
+    "001": "pass1",
+    "002": "pass2",
+    "003": "pass3",
     "admin": "admin123"
 };
 
 /**
  * Loads questions from a JSON file based on the current user.
- * If the user is 'student1', it loads 'questions.json'.
- * If the user is 'student2', it loads 'quiz2.json'.
+ * All three users use 'questions.json'.
  */
 async function loadQuestions() {
     let file = "";
-    if (currentUser === "student1") {
+    if (["001", "002", "003"].includes(currentUser)) {
         file = "questions.json";
-    } else if (currentUser === "student2") {
-        file = "quiz2.json";
     }
     if (file) {
         try {
